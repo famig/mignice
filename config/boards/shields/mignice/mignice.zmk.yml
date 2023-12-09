@@ -1,0 +1,8 @@
+file_format: "1"
+id: mignice
+name: MIGNICE
+type: shield
+url: 
+requires: [pro_micro]
+features:
+  - keys
