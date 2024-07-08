@@ -4,6 +4,6 @@
 if SHIELD_MIGNICE
 
 config ZMK_KEYBOARD_NAME
-    default "MIGpad"
+    default "MIGnice"
 
 endif
