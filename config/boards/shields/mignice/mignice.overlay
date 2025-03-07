@@ -4,7 +4,7 @@
  * SPDX-License-Identifier: MIT
  */
 //123
-#include "mignice.dtsi"
+#include "mig63.dtsi"
 
 &kscan0 {
 	col-gpios
