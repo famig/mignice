@@ -1,6 +1,6 @@
 file_format: "1"
-id: mignice
-name: MIGNICE
+id: mig63
+name: MIG63
 type: shield
 url: 
 requires: [pro_micro]
