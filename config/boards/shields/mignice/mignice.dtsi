@@ -1,5 +1,4 @@
-
- # Copyright (c) 2020 ZMK
+# Copyright (c) 2020 FAMIG
 # SPDX-License-Identifier: MIT
 
 #include <dt-bindings/zmk/matrix_transform.h>
