@@ -1,8 +1,6 @@
-/*
- * Copyright (c) 2020 Pete Johanson
- *
- * SPDX-License-Identifier: MIT
- */
+# Copyright (c) 2020 ZMK
+# SPDX-License-Identifier: MIT
+
 //123
 #include "mignice.dtsi"
 
